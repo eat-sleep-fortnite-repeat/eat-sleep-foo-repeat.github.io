@@ -2,10 +2,27 @@ Our goal for this project is to create an information hub where students of UH M
 
 To remedy this, our website will prompt UH students to begin or expand on their culinary education, learning how to cook up meals that will fit their specific needs. We hope that with the large selection of vendors, pricing information, ingredient convenience, as well as acknowledgement of dietary constrictions, this will be able to help all students of UH Manoa.
 
-## Links To:
-  * [Team contract](https://docs.google.com/document/d/10fjiUGCcoZn1zsEntLvA_btXFST54v0s46QtEraBu4E/edit?usp=sharing)
-  * [GitHub organization](https://github.com/eat-sleep-fortnite-repeat/eat-sleep-fortnite-repeat.github.io)
-  * [Milestone 1 project page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2)
+## Link To...
+  * [Team Contract](https://docs.google.com/document/d/10fjiUGCcoZn1zsEntLvA_btXFST54v0s46QtEraBu4E/edit?usp=sharing)
+  * [GitHub Organization](https://github.com/eat-sleep-fortnite-repeat/eat-sleep-fortnite-repeat.github.io)
+  * [Milestone 1 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2)
+
+## M1: Mockups
+
+### Landing Page
+![](doc/landingM1.jpg)
+
+### User Homepage 
+![](doc/userHomeM1.jpg)
+
+### Search Recipe Page
+![](doc/allRecipeM1.jpg)
+
+### Recipe Page
+![](doc/recipePageM1.jpg)
+
+### Add Recipe Page
+![](doc/addRecipeM1.jpg)
     
 ## What our system will provide
 
