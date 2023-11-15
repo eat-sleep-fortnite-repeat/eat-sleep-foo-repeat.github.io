@@ -14,6 +14,7 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 
 ### Landing Page
 ![](doc/landingM1.jpg)
+(insert info about landing page)
 
 ### User Homepage 
 ![](doc/userHomeM1.jpg)
