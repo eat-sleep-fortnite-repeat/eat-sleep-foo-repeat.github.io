@@ -10,20 +10,19 @@ To remedy this, our website will prompt UH students to begin or expand on their 
   * [Milestone 1 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2)
   * [Milestone 2 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/3)
 
-## M1: Mockups
+## M1 Pages So Far
 
 ### Landing Page
-![](doc/landingM1.jpg)
-(insert info about landing page)
+![](doc/landing1M1.png)
 
 ### User Homepage 
 ![](doc/userHomeM1.jpg)
 
-### Search Recipe Page
-![](doc/allRecipeM1.jpg)
+### About Us Page
+![](doc/aboutUsPageM1.png)
 
 ### Recipe Page
-![](doc/recipePageM1.jpg)
+![](doc/exampleRecipePageM1.png)
 
 ### Add Recipe Page
 ![](doc/addRecipeM1.jpg)
