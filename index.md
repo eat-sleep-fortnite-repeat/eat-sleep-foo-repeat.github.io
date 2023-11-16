@@ -16,7 +16,7 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 ![](doc/landing1M1.png)
 
 ### User Homepage 
-![](doc/userHomeM1.jpg)
+![](doc/userHomePageM1.png)
 
 ### About Us Page
 ![](doc/aboutUsPageM1.png)
@@ -25,7 +25,7 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 ![](doc/exampleRecipePageM1.png)
 
 ### Add Recipe Page
-![](doc/addRecipeM1.jpg)
+![](doc/addRecipePageM1.png)
 
 ## Deployment
 Find our project website [here](http://143.110.144.132/)!
