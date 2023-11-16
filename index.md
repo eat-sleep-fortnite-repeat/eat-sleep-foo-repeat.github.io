@@ -27,6 +27,9 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 ### Add Recipe Page
 ![](doc/addRecipePageM1.png)
 
+### List Recipes Admin Page
+![](doc/listAdminPage.jpg)
+
 ## Deployment
-Find our project website [here](http://143.110.144.132/)!
+Find our project website [here](http://146.190.161.129/)!
     
