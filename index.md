@@ -28,7 +28,7 @@ Fourth, to actually run the website use:
 ```
 $ meteor npm run start
 ```
-* This segment might take a while to finish but you will know its done when this pops up: <img src="doc/run_start3.png">
+* This segment might take a while to finish but you will know its done when this pops up: <img src="doc/meteorInstallM2.jpeg">
 * This created the users that you can log into to access certain pages along with the default contacts built into the website
 * It also contains the link you can click on to open the website
 
