@@ -74,7 +74,7 @@ If admin clicks on edit they are given a pop up where they can change any detail
 ![](doc/edit-recipeM2.png)
 
 ### About Us Page
-![](doc/aboutUsPageM1.png)
+![](doc/about-us-updated.jpg)
 
 ## Testing
 In the test derectory there are test to ensure site pages display and function as they should.
