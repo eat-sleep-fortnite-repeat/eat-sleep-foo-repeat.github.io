@@ -77,7 +77,7 @@ If admin clicks on edit they are given a pop up where they can change any detail
 ![](doc/about-us-updated.jpg)
 
 ## Testing
-In the test derectory there are test to ensure site pages display and function as they should.
+In the test directory there are tests to ensure site pages display and function as they should.
 ![](doc/GreenTests.png)
 
 ## Deployment
