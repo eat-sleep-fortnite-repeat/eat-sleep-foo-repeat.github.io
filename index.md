@@ -79,6 +79,7 @@ If admin clicks on edit they are given a pop up where they can change any detail
 ## Testing
 In the test directory there are tests to ensure site pages display and function as they should.
 ![](doc/GreenTests.png)
+[![ci-meteor-application-template-react](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/actions/workflows/ci.yml)
 
 ## Deployment
 Find our project website [here](http://146.190.161.129/)!
