@@ -32,4 +32,26 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 
 ## Deployment
 Find our project website [here](http://146.190.161.129/)!
-    
+
+## Development History
+The development process for Yummy Foo conformed to [Issue Driven Project Management](https://courses.ics.hawaii.edu/ics314f19/modules/project-management/)! practices. In a nutshell:
+
+* Development consists of a sequence of Milestones.
+* Each Milestone is specified as a set of tasks.
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete. 
+* Tasks should typically consist of work that can be completed in 2-4 days. 
+* The work for each task is accomplished with a git branch named “issue-XX”, where XX is replaced by the issue number. 
+* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master. 
+* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following section documents the development history of Yummy Foo.
+
+### Milestone 1: Mockup development
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M1](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2/views/1):
+![](doc/M1ProjectBoard.png)
+
+## Team
+
+Yummy Foo is designed, implemented, and maintained by [Aiden Woodard](https://github.com/aidenlkw), [Catelyn Jochim](https://github.com/cjochim), [David Rickards](https://github.com/DavidRickards), [Kye Steele](https://github.com/kyesteele), and [Mairi Yoshioka](https://github.com/mair1). 
