@@ -98,6 +98,18 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 Milestone 1 was managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M1](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2/views/1):
 ![](doc/M1ProjectBoard.png)
 
+### Milestone 2: Implementing Admin and list pages
+The goal of Milestone 2 was to add more pages and tidy up the project as a whole.
+
+Milestone 2 was managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M2](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/3/views/1):
+![](doc/M2ProjectBoard.png)
+
+### Milestone 3: Work in Progress
+The goal of Milestone 3 is to finish implementing real data, the rest of the site, and get outside trial and feedback.
+
+Milestone 3 will be managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M3](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/5):
+![](doc/M3ProjectBoard.png)
+
 ## Team
 
 Yummy Foo is designed, implemented, and maintained by [Aiden Woodard](https://github.com/aidenlkw), [Catelyn Jochim](https://github.com/cjochim), [David Rickards](https://github.com/DavidRickards), [Kye Steele](https://github.com/kyesteele), and [Mairi Yoshioka](https://github.com/mair1). 
