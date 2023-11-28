@@ -76,6 +76,10 @@ If admin clicks on edit they are given a pop up where they can change any detail
 ### About Us Page
 ![](doc/aboutUsPageM1.png)
 
+## Testing
+In the test derectory there are test to ensure site pages display and function as they should.
+![](doc/GreenTests.png)
+
 ## Deployment
 Find our project website [here](http://146.190.161.129/)!
 
@@ -108,7 +112,7 @@ Milestone 2 was managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M2](htt
 The goal of Milestone 3 is to finish implementing real data, the rest of the site, and get outside trial and feedback.
 
 Milestone 3 will be managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M3](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/5):
-![](doc/M3ProjectBoard.png)
+![](doc/M3ToDo.png)
 
 ## Team
 
