@@ -1,8 +1,8 @@
 ![](doc/yummyfoologo.png)
-# Goal
-Our goal for this project is to create an information hub where students of UH Manoa can find, share and learn new and creative recipes that will fit within the budget of a college student. For convenience and money’s sake, the majority of students will buy fast food or take out for their meals. However, this can lead to unhealthy eating habits as well as a selection of food that might not fit the constraints of every student, whether that be food allergies or intolerances. 
+# Overview
+Our goal for this project is to create an information hub where students of UH Manoa can find, share, and learn new and creative recipes that will fit within the budget of a college student. For convenience and money’s sake, the majority of students will buy fast food or take out for their meals. However, this can lead to unhealthy eating habits as well as a selection of food that might not fit the constraints of every student, whether that be food allergies or intolerances. 
 
-To remedy this, our website will prompt UH students to begin or expand on their culinary education, learning how to cook up meals that will fit their specific needs. We hope that with the large selection of vendors, pricing information, ingredient convenience, as well as acknowledgement of dietary constrictions, this will be able to help all students of UH Manoa.
+To remedy this, our website will prompt UH students to begin or expand on their culinary education, learning how to cook up meals that will fit their specific needs. Users can browse through the current selection of recipes, as well as add their own, and favorite ones they want to try out! We hope that with the large selection of recipes, pricing information, ingredient and appliances, as well as acknowledgement of dietary constrictions, this will be able to help all students of UH Manoa.
 
 ## Link To...
   * [Team Contract](https://docs.google.com/document/d/10fjiUGCcoZn1zsEntLvA_btXFST54v0s46QtEraBu4E/edit?usp=sharing)
@@ -14,11 +14,12 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 ## Developer Guide
 
 ### Download
+Download our source code from this project [here](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO)
 
 ### Installation
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, once you have access to the Digits repo you can [download a copy of the project](https://github.com/mair1/digits).
+Second, once you have access to the YummyFoo repo you can clone the repo for yourself and open with a program like Github Desktop..
 
 Third, once you have the project set up in a program like IntelliJ IDEA, you can open up the terminal inside the application, cd into the app/ directory and run:
 ```
@@ -28,13 +29,13 @@ Fourth, to actually run the website use:
 ```
 $ meteor npm run start
 ```
-* This segment might take a while to finish but you will know its done when this pops up: <img src="doc/meteorInstallM2.jpeg">
+* This segment might take a while to finish but you will know its done when something like this pops up: <img src="doc/meteorInstallM2.jpeg">
 * This created the users that you can log into to access certain pages along with the default recipes built into the website
 * It also contains the link you can click on to open the website
 
 Fifth, as a precautionary check you can run:
 ```
-$ meteor npm run start
+$ meteor npm run lint
 ```
 to see if there are any errors, hopefully there won't be any and you can run the website without any issue
 
