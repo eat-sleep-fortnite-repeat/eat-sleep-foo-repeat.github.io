@@ -44,7 +44,9 @@ $ meteor npm run lint
 ```
 to see if there are any errors, hopefully there won't be any and you can run the website without any issue
 
-### Modification
+### System Design
+Our system only uses one collection, one that holds all the recipes. The favorites page and favoriting feature uses an array to hold user ids of people favoriting a specific recipe. There is one recipe component used to display recipes anywhere on the website and uses recipe specific ids to grab data for each one.
+
 
 ### Landing Page
 Upon loading the website users are directed towards our landing page. Along with a carousel, this page gives a description to users about our purpose behind creating this website and how they can use it.
