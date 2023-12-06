@@ -11,6 +11,11 @@ To remedy this, our website will prompt UH students to begin or expand on their 
   * [Milestone 2 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/3)
   * [Milestone 3 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/5/views/1)
 
+## Community Feedback
+To test the application, we took our website to the community to see what they had to say:
+
+## User Guide
+
 ## Developer Guide
 
 ### Download
