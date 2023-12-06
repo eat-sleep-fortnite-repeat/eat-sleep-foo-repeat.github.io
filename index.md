@@ -44,7 +44,7 @@ $ meteor npm run lint
 ```
 to see if there are any errors, hopefully there won't be any and you can run the website without any issue
 
-## User Guide
+### Modification
 
 ### Landing Page
 Upon loading the website users are directed towards our landing page. Along with a carousel, this page gives a description to users about our purpose behind creating this website and how they can use it.
