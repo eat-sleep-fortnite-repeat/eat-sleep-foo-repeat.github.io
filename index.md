@@ -14,12 +14,12 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 ## Developer Guide
 
 ### Download
-Download our source code from this project [here](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO)
+Download our source code from this project [here](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO).
 
 ### Installation
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, once you have access to the YummyFoo repo you can clone the repo for yourself and open with a program like Github Desktop..
+Second, once you have access to the YummyFoo repo you can clone the repo for yourself and open with a program like Github Desktop.
 
 Third, once you have the project set up in a program like IntelliJ IDEA, you can open up the terminal inside the application, cd into the app/ directory and run:
 ```
