@@ -16,6 +16,73 @@ To test the application, we took our website to the community to see what they h
 
 ## User Guide
 
+# User Guide
+
+## How to Add a Recipe
+
+To add a new recipe to the website, follow these steps:
+
+### Step 1
+
+Click the Add Recipe button
+
+![Step 1](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/addrecipe_step1.jpg?raw=true)
+
+### Step 2
+
+Fill out the form and press the submit button to submit your recipe.
+
+![Step 2](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/addrecipe_step2.jpg?raw=true)
+
+## How to Search for a Recipe
+
+To search for a recipe, follow these steps:
+
+### Step 1
+
+Click the Search button
+
+![Step 1](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/search_step1.jpg?raw=true)
+
+### Step 2
+
+Type in the search box anything you would like to search - ingredients, name, appliances, etc
+
+![Step 2](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/search_step2.jpg?raw=true)
+
+### Step 3
+
+Reset your filters by pressing the reset search button
+
+![Step 3](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/search_step3.jpg?raw=true)
+
+### Step 4
+
+To view the recipe in full, click on the recipe link.
+
+![Step 4](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/search_step4.jpg?raw=true)
+
+## How to Favorite and View Favorite Recipes
+
+To favorite and view your favorite recipes, follow these steps:
+
+### Step 1
+
+After searching for a recipe, click the star icon on a recipe you like.
+
+![Step 1](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/fav_step1.jpg?raw=true)
+
+### Step 2
+
+Favorited recipes will have a gold star
+
+![Step 2](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/fav_star.jpg?raw=true)
+
+To view your favorite recipes, click the favorites tab
+
+![Step 2](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/fav_page.jpg?raw=true)
+
+
 ## Developer Guide
 
 ### Download
