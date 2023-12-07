@@ -14,6 +14,9 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 ## Community Feedback
 To test the application, we took our website to the community to see what they had to say:
 
+Aiden's feedback:
+"I liked the searching and adding your own recipe functionality. I think the site could use a visual overhaul and some of the menus are confusing."
+
 # User Guide
 
 ## Logging in 
