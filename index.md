@@ -14,9 +14,13 @@ To remedy this, our website will prompt UH students to begin or expand on their 
 ## Community Feedback
 To test the application, we took our website to the community to see what they had to say:
 
-## User Guide
-
 # User Guide
+
+## Logging in 
+
+To log in, either type in your credentials or register here:
+
+![Step 1](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/main/img/Login.jpg?raw=true)
 
 ## How to Add a Recipe
 
