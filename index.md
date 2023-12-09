@@ -17,6 +17,9 @@ To test the application, we took our website to the community to see what they h
 Aiden's feedback:
 "I liked the searching and adding your own recipe functionality. I think the site could use a visual overhaul and some of the menus are confusing."
 
+Mairi's feedback:
+"I thought the website was very easy to use and well designed to help me get what i was looking for. This has great potential for college students!"
+
 # User Guide
 
 ## Logging in 
