@@ -20,6 +20,9 @@ Aiden's feedback:
 Mairi's feedback:
 "I thought the website was very easy to use and well designed to help me get what i was looking for. This has great potential for college students!"
 
+Kye's feedback:
+"The picture on the individual recipe page is way too small or thin. Some formats on the recipes page are not the same and some images do not show up. However, the overall application looks good."
+
 # User Guide
 
 ## Logging in 
