@@ -4,14 +4,16 @@ Our goal for this project is to create an information hub where students of UH M
 
 To remedy this, our website will prompt UH students to begin or expand on their culinary education, learning how to cook up meals that will fit their specific needs. Users can browse through the current selection of recipes, as well as add their own, and favorite ones they want to try out! We hope that with the large selection of recipes, pricing information, ingredient and appliances, as well as acknowledgement of dietary constrictions, this will be able to help all students of UH Manoa.
 
-## Link To...
-  * [Team Contract](https://docs.google.com/document/d/10fjiUGCcoZn1zsEntLvA_btXFST54v0s46QtEraBu4E/edit?usp=sharing)
-  * [GitHub Organization](https://github.com/eat-sleep-fortnite-repeat/eat-sleep-fortnite-repeat.github.io)
-  * [Milestone 1 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2)
-  * [Milestone 2 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/3)
-  * [Milestone 3 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/5/views/1)
+# Table of Contents
+* [Community Feedback](#community-feedback-)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
+* [Development History](#development-history)
+* [Meet the Team](#team)
+* [Team Resource Links](#link-to)
 
-## Community Feedback
+# Community Feedback 
 To test the application, we took our website to the community to see what they had to say:
 
 Aiden's feedback:
@@ -99,12 +101,11 @@ To view your favorite recipes, click the favorites tab
 ![Step 2](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO/blob/issue-46/img/fav_page.jpg?raw=true)
 
 
-## Developer Guide
-
-### Download
+# Developer Guide
+## Download
 Download our source code from this project [here](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO).
 
-### Installation
+## Installation
 First, [install Meteor](https://www.meteor.com/install).
 
 Second, once you have access to the YummyFoo repo you can clone the repo for yourself and open with a program like Github Desktop.
@@ -127,7 +128,12 @@ $ meteor npm run lint
 ```
 to see if there are any errors, hopefully there won't be any and you can run the website without any issue
 
-### Modification
+## Modifying the Application
+To modify our work, create a clone of the [application](https://github.com/eat-sleep-fortnite-repeat/YUMMY-FOO) and open the project with an IDE (our team used [IntelliJ](https://www.jetbrains.com/idea/)). Cd into the directory of the app locally:
+```
+$ cd yummy-foo/app
+```
+Before modifying the application, below is the background and functionality of each page:
 
 ### Landing Page
 Upon loading the website users are directed towards our landing page. Along with a carousel, this page gives a description to users about our purpose behind creating this website and how they can use it.
@@ -165,15 +171,15 @@ If admin clicks on edit they are given a pop up where they can change any detail
 ### About Us Page
 ![](doc/about-us-updated.jpg)
 
-## Testing
+### Testing
 In the test directory there are tests to ensure site pages display and function as they should.
 ![](doc/GreenTests.png)
 ![ci-badge](https://github.com/eat-sleep-fortnite-repeat/yummy-foo/workflows/yummy-foo/badge.svg)
 
-## Deployment
+# Deployment
 Find our project website [here](http://146.190.161.129/)!
 
-## Development History
+# Development History
 The development process for Yummy Foo conformed to [Issue Driven Project Management](https://courses.ics.hawaii.edu/ics314f19/modules/project-management/)! practices. In a nutshell:
 
 * Development consists of a sequence of Milestones.
@@ -186,24 +192,31 @@ The development process for Yummy Foo conformed to [Issue Driven Project Managem
 
 The following section documents the development history of Yummy Foo.
 
-### Milestone 1: Mockup development
+## Milestone 1: Mockup development
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
 
 Milestone 1 was managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M1](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2/views/1):
 ![](doc/M1ProjectBoard.png)
 
-### Milestone 2: Implementing Admin and list pages
+## Milestone 2: Implementing Admin and list pages
 The goal of Milestone 2 was to add more pages and tidy up the project as a whole.
 
 Milestone 2 was managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M2](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/3/views/1):
 ![](doc/project-m2.jpg)
 
-### Milestone 3: Work in Progress
+## Milestone 3: Work in Progress
 The goal of Milestone 3 is to finish implementing real data, the rest of the site, and get outside trial and feedback.
 
 Milestone 3 will be managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M3](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/5):
 ![](doc/M3ToDo.png)
 
-## Team
+# Link To...
+* [Team Contract](https://docs.google.com/document/d/10fjiUGCcoZn1zsEntLvA_btXFST54v0s46QtEraBu4E/edit?usp=sharing)
+* [GitHub Organization](https://github.com/eat-sleep-fortnite-repeat/eat-sleep-fortnite-repeat.github.io)
+* [Milestone 1 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/2)
+* [Milestone 2 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/3)
+* [Milestone 3 Project Page](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/5/views/1)
+
+# Team
 
 Yummy Foo is designed, implemented, and maintained by [Aiden Woodard](https://github.com/aidenlkw), [Catelyn Jochim](https://github.com/cjochim), [David Rickards](https://github.com/DavidRickards), [Kye Steele](https://github.com/kyesteele), and [Mairi Yoshioka](https://github.com/mair1). 
