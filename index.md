@@ -23,6 +23,9 @@ Mairi's feedback:
 Kye's feedback:
 "The picture on the individual recipe page is way too small or thin. Some formats on the recipes page are not the same and some images do not show up. However, the overall application looks good."
 
+Catelyn's feedback:
+"I would use this application because I live on my own and I want to eat and cook yummy food on a budget. Overall, the functionality of the application works great like adding & submitting recipes to the form, searching for recipes, and bookmarking my favorite recipes. However, some areas need a bit of touch-up such as the images of the individual recipe pages and the [landing] page feels a bit naked. Considering that this is the basic form of the app, I definitely see this app improving and having more potential!"
+
 # User Guide
 
 ## Logging in 
