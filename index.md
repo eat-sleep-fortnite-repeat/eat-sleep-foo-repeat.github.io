@@ -208,10 +208,10 @@ Milestone 2 was managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M2](htt
 ![](doc/project-m2.jpg)
 
 ## Milestone 3: Work in Progress
-The goal of Milestone 3 is to finish implementing real data, the rest of the site, and get outside trial and feedback.
+The goal of Milestone 3 was to finish implementing real data, the rest of the site, and get outside trial and feedback.
 
 Milestone 3 will be managed using [Eat-Sleep-Foo-Repeat GitHub Project Board M3](https://github.com/orgs/eat-sleep-fortnite-repeat/projects/5):
-![](doc/M3ToDo.png)
+![](doc/M3projectboard.png)
 
 # Link To...
 * [Team Contract](https://docs.google.com/document/d/10fjiUGCcoZn1zsEntLvA_btXFST54v0s46QtEraBu4E/edit?usp=sharing)
