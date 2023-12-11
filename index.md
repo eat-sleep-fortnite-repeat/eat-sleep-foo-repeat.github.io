@@ -176,7 +176,7 @@ If admin clicks on edit they are given a pop up where they can change any detail
 
 ### Testing
 In the test directory there are tests to ensure site pages display and function as they should.
-![](doc/GreenTests.png)
+![](doc/Tests.png)
 ![ci-badge](https://github.com/eat-sleep-fortnite-repeat/yummy-foo/workflows/yummy-foo/badge.svg)
 
 # Deployment
