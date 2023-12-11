@@ -28,6 +28,9 @@ Kye's feedback:
 Catelyn's feedback:
 "I would use this application because I live on my own and I want to eat and cook yummy food on a budget. Overall, the functionality of the application works great like adding & submitting recipes to the form, searching for recipes, and bookmarking my favorite recipes. However, some areas need a bit of touch-up such as the images of the individual recipe pages and the [landing] page feels a bit naked. Considering that this is the basic form of the app, I definitely see this app improving and having more potential!"
 
+David's feedback:
+"I like the concept of a database that prioritizes the needs of college students. Your color choices lend to a very cute vibe. The links at the top make navigation simple. When I added a recipe, you have a field called "Filters" that did not immediately make sense to me, and may not make sense to the average user. I am guessing this should be renamed to something like "tags" or "keywords" so the user realizes this is to help others locate this recipe."
+
 # User Guide
 
 ## Logging in 
